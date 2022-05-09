@@ -222,3 +222,50 @@ body {
 }
 
 .footer {}
+
+/* Тут будет блоки настройка по Discover the water и 3х блоков */
+
+.discover_the_water {}
+
+.left-content {}
+
+.block-text {
+  position: absolute;
+  padding: 288px 636px 567px 120px;
+  font-style: normal;
+}
+
+.block-text_title {
+  font-family: 'Gotham Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 72px;
+  line-height: 69px;
+}
+
+.block-text_text {
+  padding: 38px 0 0 0;
+}
+
+.Start_my_jounery {
+  font-family: 'Gotham Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 120%;
+  padding: 806px 754px 0 397px;
+}
+
+.get_started_spisok_sprava {}
+
+.Salt_water_fishing_1 {}
+
+.Start_watet_text_1 {}
+
+.Salt_water_fishing_2 {}
+
+.Start_watet_text_2 {}
+
+.Salt_water_fishing_3 {}
+
+.Start_watet_text_3 {}
